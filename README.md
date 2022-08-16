@@ -21,5 +21,5 @@ Google Sheets
 * If labels are overlapped, select the data point and flip it over the horizonal axis (O > Enter)
 * Switch to outline mode to see the edge of the spheres for more accuracy.
 
-![alt text] (https://github.com/kellydern/Meteorites-map/blob/master/meteorStrikes_class.png)
+![alt text](https://github.com/kellydern/Meteorites-map/blob/master/meteorStrikes_class.png)
 
